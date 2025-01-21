@@ -1,0 +1,86 @@
+.nvbar {
+    display : flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom-style: solid;
+    border-color:#035951;
+    border-width: 1px;
+}
+
+#nb {
+    margin-right : 80px;
+}
+
+.nvbar img {
+    margin-left : 50px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #035951;
+    margin-right : 20px;
+}
+
+nav a:hover {
+    color : black;
+}
+
+#UC {
+    color : DarkRed;
+    padding-top: 65px;
+    padding-bottom: 65px;
+    text-align: center;
+    font-style: oblique;
+    font-size: 50px;
+}
+
+.foot {
+    display : flex;
+    background-color : #035951;
+    padding-left : 70px;
+    margin-left : 30px;
+    margin-right : 30px;
+    padding-bottom : 10px;
+}
+
+.foot h3 {
+    padding-top : 20px;
+    font-size : 22px;
+    color : white;
+}
+
+.foot li {
+    font-size : 14px;
+    color : rgb(236, 235, 235);
+}
+
+.foot li a{
+    font-size : 14px;
+    text-decoration : none;
+    color : rgb(236, 235, 235);
+
+}
+
+#ft2 {
+    padding-left : 200px;
+}
+
+#ft3 {
+    padding-left : 200px;
+}
+
+#cp {
+    background-color: #035951;
+    margin-left : 30px;
+    margin-right : 30px;
+    padding-bottom : 7px;
+    padding-left : 500px;
+    border-top-style: solid;
+    border-color : white;
+    border-width : 1px;
+}
+
+#copy {
+    color : white;
+    
+}
